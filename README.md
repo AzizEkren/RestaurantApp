@@ -6,6 +6,18 @@ Modern ve şık bir React Native uygulaması ile civarınızdaki en iyi restoran
 
 Acıktım, kullanıcıların kolayca restoran arayabileceği, filtreleyebileceği ve detaylarını görüntüleyebileceği modern bir mobil uygulamadır.
 
+### 📸 Ekran Görüntüleri
+
+<div align="center">
+  <img src="assets/Ekran görüntüsü 2025-08-06 163028.png" alt="Ana Sayfa - Restoran Listesi" width="250" style="margin: 10px;">
+  <img src="assets/Ekran görüntüsü 2025-08-06 163053.png" alt="Arama Özelliği" width="250" style="margin: 10px;">
+  <img src="assets/Ekran görüntüsü 2025-08-06 163151.png" alt="Restoran Detay Sayfası" width="250" style="margin: 10px;">
+</div>
+
+<p align="center">
+  <em>Soldan sağa: Ana sayfa ile kategori bazlı restoran listesi, canlı arama özelliği, detaylı restoran bilgileri</em>
+</p>
+
 ### ✨ Özellikler
 
 - 🔍 **Akıllı Arama**: Restoran, yemek türü veya cafe adı ile arama
