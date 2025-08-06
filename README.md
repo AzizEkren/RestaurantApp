@@ -155,14 +155,4 @@ npm run web
 4. Branch'inizi push edin (`git push origin feature/AmazingFeature`)
 5. Pull Request oluşturun
 
-
-
-## 🙏 Teşekkürler
-
-- [Yelp API](https://www.yelp.com/developers) - Restoran verileri için
-- [Expo](https://expo.dev/) - Geliştirme platformu için
-- [React Native Community](https://reactnative.dev/) - Harika dokümantasyon için
-
----
-
 ⭐ Bu projeyi beğendiyseniz star vermeyi unutmayın!
